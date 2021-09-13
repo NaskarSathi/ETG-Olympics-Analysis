@@ -4,7 +4,7 @@ This repository is having all the codes with CSV files for making an Olympics An
 # I've made an Olympics Analysis which is working on NoSQL based database.
 1. I've used a CSV file for it.
 
-#This includes all data related to Summer Olympics.
+# This includes all data related to Summer Olympics.
 
 
 1. Year
@@ -17,7 +17,7 @@ This repository is having all the codes with CSV files for making an Olympics An
 8. Event
 9. Medal
 
-#This projects can do the following things
+# This projects can do the following things
 
 
 1. To find the name of cities, where Olympics is held so far.
